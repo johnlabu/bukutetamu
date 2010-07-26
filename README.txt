@@ -1,1 +1,3 @@
-This is readme
+This is readme.
+
+I ve made some changes
